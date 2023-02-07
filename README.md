@@ -11,4 +11,5 @@
 # Coamdos de git
 - git init
 - git add .
-- git commit -m 
+- git commit -m "mensaje"
+- git push
